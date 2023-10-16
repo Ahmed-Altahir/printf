@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * _printf - prints anything
- * @format: the format string
+ * _printf - few gew
+ * @format: jek kewff
  *
- * Return: number of bytes printed
+ * Return: kwfefef ewf
  */
 int _printf(const char *format, ...)
 {
@@ -47,4 +47,3 @@ int _printf(const char *format, ...)
 	va_end(ap);
 	return (sum);
 }
-
